@@ -7,12 +7,13 @@
 
 <h3><code>pranav@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./pranav-ascii.svg" width="370" alt="Pranav — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="PRANAV — 3D ASCII wordmark" /></td>
-</tr>
-</table>
+<img src="./wordmark.svg" width="880" alt="PRANAV — 3D ASCII wordmark" />
+
+<img src="./typing.svg" width="880" alt="Typing Animation" />
+
+<br>
+
+<img src="./pranav-ascii.svg" width="400" alt="Pranav — ASCII portrait" />
 
 <br>
 <br>
@@ -35,7 +36,5 @@
   <a href="https://x.com/your-twitter"><img src="https://img.shields.io/badge/X%20(Twitter)-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<sub>Building AI integrated products</sub>
 
 </div>
