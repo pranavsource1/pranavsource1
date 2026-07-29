@@ -1,0 +1,341 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 452 530" width="452" height="530">
+  <rect width="100%" height="100%" fill="#000"/>
+    <style>
+      @keyframes typeIn { from { width: 0; } to { width: 100%; } }
+      .l0 { animation: typeIn 0.3s steps(180) 0.00s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l1 { animation: typeIn 0.3s steps(180) 0.04s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l2 { animation: typeIn 0.3s steps(180) 0.08s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l3 { animation: typeIn 0.3s steps(180) 0.12s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l4 { animation: typeIn 0.3s steps(180) 0.16s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l5 { animation: typeIn 0.3s steps(180) 0.20s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l6 { animation: typeIn 0.3s steps(180) 0.24s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l7 { animation: typeIn 0.3s steps(180) 0.28s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l8 { animation: typeIn 0.3s steps(180) 0.32s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l9 { animation: typeIn 0.3s steps(180) 0.36s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l10 { animation: typeIn 0.3s steps(180) 0.40s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l11 { animation: typeIn 0.3s steps(180) 0.44s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l12 { animation: typeIn 0.3s steps(180) 0.48s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l13 { animation: typeIn 0.3s steps(180) 0.52s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l14 { animation: typeIn 0.3s steps(180) 0.56s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l15 { animation: typeIn 0.3s steps(180) 0.60s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l16 { animation: typeIn 0.3s steps(180) 0.64s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l17 { animation: typeIn 0.3s steps(180) 0.68s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l18 { animation: typeIn 0.3s steps(180) 0.72s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l19 { animation: typeIn 0.3s steps(180) 0.76s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l20 { animation: typeIn 0.3s steps(180) 0.80s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l21 { animation: typeIn 0.3s steps(180) 0.84s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l22 { animation: typeIn 0.3s steps(180) 0.88s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l23 { animation: typeIn 0.3s steps(180) 0.92s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l24 { animation: typeIn 0.3s steps(180) 0.96s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l25 { animation: typeIn 0.3s steps(180) 1.00s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l26 { animation: typeIn 0.3s steps(180) 1.04s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l27 { animation: typeIn 0.3s steps(180) 1.08s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l28 { animation: typeIn 0.3s steps(180) 1.12s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l29 { animation: typeIn 0.3s steps(180) 1.16s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l30 { animation: typeIn 0.3s steps(180) 1.20s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l31 { animation: typeIn 0.3s steps(180) 1.24s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l32 { animation: typeIn 0.3s steps(180) 1.28s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l33 { animation: typeIn 0.3s steps(180) 1.32s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l34 { animation: typeIn 0.3s steps(180) 1.36s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l35 { animation: typeIn 0.3s steps(180) 1.40s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l36 { animation: typeIn 0.3s steps(180) 1.44s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l37 { animation: typeIn 0.3s steps(180) 1.48s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l38 { animation: typeIn 0.3s steps(180) 1.52s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l39 { animation: typeIn 0.3s steps(180) 1.56s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l40 { animation: typeIn 0.3s steps(180) 1.60s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l41 { animation: typeIn 0.3s steps(180) 1.64s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l42 { animation: typeIn 0.3s steps(180) 1.68s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l43 { animation: typeIn 0.3s steps(180) 1.72s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l44 { animation: typeIn 0.3s steps(180) 1.76s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l45 { animation: typeIn 0.3s steps(180) 1.80s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l46 { animation: typeIn 0.3s steps(180) 1.84s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l47 { animation: typeIn 0.3s steps(180) 1.88s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l48 { animation: typeIn 0.3s steps(180) 1.92s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l49 { animation: typeIn 0.3s steps(180) 1.96s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l50 { animation: typeIn 0.3s steps(180) 2.00s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l51 { animation: typeIn 0.3s steps(180) 2.04s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l52 { animation: typeIn 0.3s steps(180) 2.08s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l53 { animation: typeIn 0.3s steps(180) 2.12s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l54 { animation: typeIn 0.3s steps(180) 2.16s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l55 { animation: typeIn 0.3s steps(180) 2.20s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l56 { animation: typeIn 0.3s steps(180) 2.24s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l57 { animation: typeIn 0.3s steps(180) 2.28s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l58 { animation: typeIn 0.3s steps(180) 2.32s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l59 { animation: typeIn 0.3s steps(180) 2.36s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l60 { animation: typeIn 0.3s steps(180) 2.40s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l61 { animation: typeIn 0.3s steps(180) 2.44s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l62 { animation: typeIn 0.3s steps(180) 2.48s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l63 { animation: typeIn 0.3s steps(180) 2.52s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l64 { animation: typeIn 0.3s steps(180) 2.56s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l65 { animation: typeIn 0.3s steps(180) 2.60s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l66 { animation: typeIn 0.3s steps(180) 2.64s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l67 { animation: typeIn 0.3s steps(180) 2.68s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l68 { animation: typeIn 0.3s steps(180) 2.72s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l69 { animation: typeIn 0.3s steps(180) 2.76s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l70 { animation: typeIn 0.3s steps(180) 2.80s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l71 { animation: typeIn 0.3s steps(180) 2.84s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l72 { animation: typeIn 0.3s steps(180) 2.88s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l73 { animation: typeIn 0.3s steps(180) 2.92s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l74 { animation: typeIn 0.3s steps(180) 2.96s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l75 { animation: typeIn 0.3s steps(180) 3.00s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l76 { animation: typeIn 0.3s steps(180) 3.04s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l77 { animation: typeIn 0.3s steps(180) 3.08s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l78 { animation: typeIn 0.3s steps(180) 3.12s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l79 { animation: typeIn 0.3s steps(180) 3.16s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l80 { animation: typeIn 0.3s steps(180) 3.20s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l81 { animation: typeIn 0.3s steps(180) 3.24s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l82 { animation: typeIn 0.3s steps(180) 3.28s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l83 { animation: typeIn 0.3s steps(180) 3.32s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l84 { animation: typeIn 0.3s steps(180) 3.36s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l85 { animation: typeIn 0.3s steps(180) 3.40s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l86 { animation: typeIn 0.3s steps(180) 3.44s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l87 { animation: typeIn 0.3s steps(180) 3.48s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l88 { animation: typeIn 0.3s steps(180) 3.52s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l89 { animation: typeIn 0.3s steps(180) 3.56s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l90 { animation: typeIn 0.3s steps(180) 3.60s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l91 { animation: typeIn 0.3s steps(180) 3.64s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l92 { animation: typeIn 0.3s steps(180) 3.68s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l93 { animation: typeIn 0.3s steps(180) 3.72s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l94 { animation: typeIn 0.3s steps(180) 3.76s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l95 { animation: typeIn 0.3s steps(180) 3.80s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l96 { animation: typeIn 0.3s steps(180) 3.84s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l97 { animation: typeIn 0.3s steps(180) 3.88s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l98 { animation: typeIn 0.3s steps(180) 3.92s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l99 { animation: typeIn 0.3s steps(180) 3.96s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l100 { animation: typeIn 0.3s steps(180) 4.00s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l101 { animation: typeIn 0.3s steps(180) 4.04s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l102 { animation: typeIn 0.3s steps(180) 4.08s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l103 { animation: typeIn 0.3s steps(180) 4.12s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l104 { animation: typeIn 0.3s steps(180) 4.16s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l105 { animation: typeIn 0.3s steps(180) 4.20s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l106 { animation: typeIn 0.3s steps(180) 4.24s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l107 { animation: typeIn 0.3s steps(180) 4.28s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l108 { animation: typeIn 0.3s steps(180) 4.32s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l109 { animation: typeIn 0.3s steps(180) 4.36s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+      .l110 { animation: typeIn 0.3s steps(180) 4.40s forwards; overflow: hidden; white-space: nowrap; width: 0; }
+    </style>
+  <g font-family="'Courier New', monospace" font-size="4.0px" fill="#b0b0b0">
+    <clipPath id="c0"><rect class="l0" x="0" y="6.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="10.0" clip-path="url(#c0)">++++=================+++=::-=++++++++++====++++++++++=---===+++=============++++++++=======+++++=--===-=++++++++=--=---===++++++==================---===-========+=-:----======::::-</text>
+    <clipPath id="c1"><rect class="l1" x="0" y="10.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="14.6" clip-path="url(#c1)">+++++================+++=::-=++++++++++====++++++++++=---===+++=============++++++++======++++++==-===-=++++++++=--=--====+++++++=================---==--=======++=-:----======::::-</text>
+    <clipPath id="c2"><rect class="l2" x="0" y="15.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="19.2" clip-path="url(#c2)">+++++================+++=::-=++++++++++====++++++++++=---===+++==============+++++++=======+++++==-===-=++++++++=--=--====+++++++===============++----=--=======++=-:----======::::-</text>
+    <clipPath id="c3"><rect class="l3" x="0" y="19.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="23.8" clip-path="url(#c3)">+++++================+++=::-=++++++++++==++++++++++++=---==++++==============+++++++=======+++++==-===-=++++++++=--=---===+++++++============+++=+=---=--========+=-:----======::::-</text>
+    <clipPath id="c4"><rect class="l4" x="0" y="24.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="28.4" clip-path="url(#c4)">++++++===============+++=::-=++++++++++==++++++++++++=--===++++==============+++++++=======+++++==-===-=++++++++=--=--====+++++++==================---===========+=-:----======::::-</text>
+    <clipPath id="c5"><rect class="l5" x="0" y="29.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="33.0" clip-path="url(#c5)">+++++================++++::-=+++++++++++=+++++++++++++--===++++++============+++++++=======+++++==-===-=++++++++=--==-====+++++++==================---==-========+=-:----======::::-</text>
+    <clipPath id="c6"><rect class="l6" x="0" y="33.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="37.6" clip-path="url(#c6)">+++++===============+++++-:-=+++++++++++=+++++++++++++--===++++=+==+++=======+++++++=======+++++==-===-=++++++++=--=--====+++++++==================---==-=======+++-::---======::::-</text>
+    <clipPath id="c7"><rect class="l7" x="0" y="38.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="42.2" clip-path="url(#c7)">++++++===============++++-:-=+++++++++++++++++++++++++--===++++=+==+=+======++++++++======++++++==-===-=++++++++=--=--====+++++++==================--===-========++-::---======::::-</text>
+    <clipPath id="c8"><rect class="l8" x="0" y="42.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="46.8" clip-path="url(#c8)">++++++================+++-:-=+++++++++++++++++++++++++--===+++++=+++========++++++++======++++++==-===-=++++++++=--=--====+++++++==================--===-=======+++-::---======::::-</text>
+    <clipPath id="c9"><rect class="l9" x="0" y="47.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="51.4" clip-path="url(#c9)">++++++===============++++-:-=+++++++++++=+++++++++++++--===++++++++=========++++++++=======+++++==-===-=++++++++=--=--====++++++++=================--===-========++-::---======-:::-</text>
+    <clipPath id="c10"><rect class="l10" x="0" y="52.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="56.0" clip-path="url(#c10)">+++++++==============++++-:-=+++++++++++++++++++++++++=-===++++=+===========++++++++=======+++++==-===-=++++++++=--=--====+++++++==================--===-=======+++=::---======-:::-</text>
+    <clipPath id="c11"><rect class="l11" x="0" y="56.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="60.6" clip-path="url(#c11)">+++++++==============++++-:-=+++++++++++++++++++++++++=--==++++=+===========+++++++++======+++++==-===-=++++++++=--=--====++++++++=================--===-=======+++=::---======-:::-</text>
+    <clipPath id="c12"><rect class="l12" x="0" y="61.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="65.2" clip-path="url(#c12)">+++++++===============+++-:-=+++++++++++++++++++++++++=-===+++++++===========++++++++=====++++++==-===-==+++++++=--=--====+++++++============+=====--===========+++=::---======-:::-</text>
+    <clipPath id="c13"><rect class="l13" x="0" y="65.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="69.8" clip-path="url(#c13)">++++++++=============++++=:-=+++++++++++++++++++++++++=-===++++=+++==========++++++++=====+++++===-===-=++++++++=--=--====++++++++==========+++==+=---==========+++=::---======-:::-</text>
+    <clipPath id="c14"><rect class="l14" x="0" y="70.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="74.4" clip-path="url(#c14)">++++++++=============++++=:-=+++++++++++++++++++++++++=-===++++=++++++=======++++++++========-::::--=---======++=--=--====+++++++===========+++==+=---==========+++=::---======-:::-</text>
+    <clipPath id="c15"><rect class="l15" x="0" y="75.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="79.0" clip-path="url(#c15)">+++++++++============++++=--=+++++++++++=+++++++++++++=--==++++=++++++++=====++++++++==--:::::::::::--:::::::::----==-====++++++++===============+=---==========+++=::---======-:::-</text>
+    <clipPath id="c16"><rect class="l16" x="0" y="79.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="83.6" clip-path="url(#c16)">+++++++++============++++=--=+++++++++++=+++++++++++++=--==++++=+++++========+++++++=--::::::::::::::::::::::::::::---====++++++++============++++=---=--=======+++=::---======-:::-</text>
+    <clipPath id="c17"><rect class="l17" x="0" y="84.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="88.2" clip-path="url(#c17)">+++++++++============++++=--==++++++++++=+++++++++++++=--==++++=+++++++======+===----::::::::::::..::::::::::::::::::--===++++++++===============+=---=--=======+++=-:---======-:::-</text>
+    <clipPath id="c18"><rect class="l18" x="0" y="88.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="92.8" clip-path="url(#c18)">+++++++++=============+++=--==++++++++++++++++++++++++=--==+++++++++++=+=====-:::::::::::...::::::::::::::::::::::::::::-=++++++++==============++=---==-=======+++=-:---======-:::-</text>
+    <clipPath id="c19"><rect class="l19" x="0" y="93.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="97.4" clip-path="url(#c19)">+++++++++=============++++--=+++++++++++=+++++++++++++=--==+++++++++++=====-::::::::::::.......:::::::::::::::::::..:::::-=+++++++==============++=----=-=======+++=-:---======-:::-</text>
+    <clipPath id="c20"><rect class="l20" x="0" y="98.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="102.0" clip-path="url(#c20)">+++++++===============++++--==++++++++++==++++++++++++=--==++++++++++=====-:::::::::::........::::::::::.::::::::::.::..::-+++++++=============+++=---==========+++=-:---======-:::-</text>
+    <clipPath id="c21"><rect class="l21" x="0" y="102.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="106.6" clip-path="url(#c21)">+++++++===============++++--==++++++++++==++++++++++++=--==++++=+++++====-::::::.::::..........::::..::::::::::::::::...:::===++++=============+++=---===========++=-::--======-:::-</text>
+    <clipPath id="c22"><rect class="l22" x="0" y="107.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="111.2" clip-path="url(#c22)">+++++++===============++++--==++++++++++==+++++++++++++--==++++=+++===--::::::::..........::..::.....::::.::.:.:::::..:::::--=++++==============++=---==-========+++-::--====+=-:::-</text>
+    <clipPath id="c23"><rect class="l23" x="0" y="111.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="115.8" clip-path="url(#c23)">++++++================++++=-==++++++++++==+++++++++++++--==+++++++=--:::::::::::..........::.::.::..::::.........:......:::-=+++++===============+=------=======++++-::--======-:::-</text>
+    <clipPath id="c24"><rect class="l24" x="0" y="116.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="120.4" clip-path="url(#c24)">+++++++===============++++=-=+++++++++++==+++++++++++++--==+++++++=-::::::::.:::...................:.:..................::::=+++++++===============------========+++-::--======-:::-</text>
+    <clipPath id="c25"><rect class="l25" x="0" y="121.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="125.0" clip-path="url(#c25)">+++++++===============++++=-==++++++++++==+++++++++++++--==+++++++===:::::::..:::.........................................::=+++++++===============------========+++-::--====+=-:::-</text>
+    <clipPath id="c26"><rect class="l26" x="0" y="125.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="129.6" clip-path="url(#c26)">+++++++===============++++=-==++++++++++===++++++++++++--==++++=++++=::::::..............................................:-=+++++++================------========+++=::--====++-:::-</text>
+    <clipPath id="c27"><rect class="l27" x="0" y="130.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="134.2" clip-path="url(#c27)">+++++++===============++++=-==++++++++++===++++++++++++=-==++++=++++=::::::..............................................:-+++++++++==============+--==---=======+++=::--====+=-:::-</text>
+    <clipPath id="c28"><rect class="l28" x="0" y="134.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="138.8" clip-path="url(#c28)">+++++++==============+++++=-==++++++++++===++++++++++++=-==++++=++++=-:........::::::::::::....:::::::::::::::::..........:++++++++================--==---========++=::---===+=-:::-</text>
+    <clipPath id="c29"><rect class="l29" x="0" y="139.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="143.4" clip-path="url(#c29)">+++++++==============+++++=-==++++++++++===++++++++++++=-==++++=+++++==--:::::::::::::::--::::::::::::::::::::::::::......-++++++++================-------=======+++=::--====+=-:::-</text>
+    <clipPath id="c30"><rect class="l30" x="0" y="144.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="148.0" clip-path="url(#c30)">+++++++==============+++++=-==++++++++++====+++++++++++=-==++++=++++++====--:::::----------------::::::::::::::::::::::..:=++++++++================-------=======+++=::---===+=-:::-</text>
+    <clipPath id="c31"><rect class="l31" x="0" y="148.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="152.6" clip-path="url(#c31)">=++++++==============+++++=-==+++++++++++==++++++++++++=-==++++=++=++++=====-----------------------:::::::::-==-::::::::.-=++++++++================-------========++=::---===+=-:::-</text>
+    <clipPath id="c32"><rect class="l32" x="0" y="153.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="157.2" clip-path="url(#c32)">=++++++==============+++++=-==+++++++++++===+++++++++++=-==++++=++=++++++===::::::::::::::----------:::-----:---=-:::::::-+++++++++================-------========++=:::--===+=-:::-</text>
+    <clipPath id="c33"><rect class="l33" x="0" y="157.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="161.8" clip-path="url(#c33)">=++++++==============+++++=-==+++++++++++===+++++++++++=-==++++=++++=++++---:::::::::::::::::--=====--------::-----::::::=+++++++++=================--=--=========++=:::--===+=-:::-</text>
+    <clipPath id="c34"><rect class="l34" x="0" y="162.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="166.4" clip-path="url(#c34)">=++++++===============++++=-==+++++++++++===+++++++++++=-==++++==++++++++--=-:::::::::::::----======----==-:::-----::::::-+++++++++=================------========++=:::--=====-:::-</text>
+    <clipPath id="c35"><rect class="l35" x="0" y="167.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="171.0" clip-path="url(#c35)">=+++++++==============+++++-==+++++++++++===+++++++++++=-==++++=+++==++=+=-==-:::--::::::--========----===-----==--::::::-+++++++++==============+==------=========+=:::--=====::::-</text>
+    <clipPath id="c36"><rect class="l36" x="0" y="171.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="175.6" clip-path="url(#c36)">=+++++++==============+++++-==+++++++++++====++++++++++=-==++++==++========-==-:::---::-----====------====--====---::::::-++++++++===============++=------=========+=:::--=====::::-</text>
+    <clipPath id="c37"><rect class="l37" x="0" y="176.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="180.2" clip-path="url(#c37)">=+++++++==============+++++-==+++++++++++====+++++++++++===++++==+======+===-=--:::--::----------------==-=====-----:::::-=++++++++==============++=------=========+=-::--=====::::-</text>
+    <clipPath id="c38"><rect class="l38" x="0" y="180.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="184.8" clip-path="url(#c38)">=++++++================++++-==+++++++++++====+++++++++++===++++==+==========------::::------------------=------==---------=++++++++===============+=------=========+=-::--=====::::-</text>
+    <clipPath id="c39"><rect class="l39" x="0" y="185.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="189.4" clip-path="url(#c39)">=+++++++===============++++===+++++++++=+====+++++++++++===+++===============--::::::--------------------==--=====--------==+++++++=================------===========-::--=====::::-</text>
+    <clipPath id="c40"><rect class="l40" x="0" y="190.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="194.0" clip-path="url(#c40)">==++++++===============++++====++++++++++=====++++++++++===+++================+-::::-------------------------======--------+**++++==================------===========-::--=====::::-</text>
+    <clipPath id="c41"><rect class="l41" x="0" y="194.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="198.6" clip-path="url(#c41)">==+++++================++++====++++++++=+======+++++++++===+++================+=-::::::-----------------------======-----+*###++++==================------=========+=-::--=====-:::-</text>
+    <clipPath id="c42"><rect class="l42" x="0" y="199.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="203.2" clip-path="url(#c42)">==+++++=================+++====++++++++=++=====+++++++++===+++=================++=::::::----------------------=======--=*####**+++==================-------========++-::--=====-:::-</text>
+    <clipPath id="c43"><rect class="l43" x="0" y="203.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="207.8" clip-path="url(#c43)">==+++++=================+++====++++++++==+=====++=++++++===+++=================++=----:::--------::::::-------======--+#####****++==================-------=========+-::--=====-:::-</text>
+    <clipPath id="c44"><rect class="l44" x="0" y="208.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="212.4" clip-path="url(#c44)">==++++++================+++=-==++++++++==+=========+++++====++=================+++=::::::-----:::::::::-------=====-=+######***#%##*================-------=========+-::--=====-:::-</text>
+    <clipPath id="c45"><rect class="l45" x="0" y="213.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="217.0" clip-path="url(#c45)">==++++++================+++=-===+++++++==+======++++++++=======================++++:::--:-:::::::::::::--------====+*#*######*##%%@%#++=============-------==========-::--=====-:::-</text>
+    <clipPath id="c46"><rect class="l46" x="0" y="217.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="221.6" clip-path="url(#c46)">==++++++==================+=-===+++++++==+========++++++=======================++++-.:::::::.:::::::::::---------=****####**####%%@@@%%#*+===========-------========+-::--=====-:::-</text>
+    <clipPath id="c47"><rect class="l47" x="0" y="222.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="226.2" clip-path="url(#c47)">==++++++==================+=-===+++++++============+++++===+====================+++=-::::::----::::::::::-------=*****##***#####%@@@@%%%%%#*+========-------==========::--=====-:::-</text>
+    <clipPath id="c48"><rect class="l48" x="0" y="226.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="230.8" clip-path="url(#c48)">::---------=-===========+=+=-===+++++++=============++++========================+++++++=====+++=-:::::::-------+#****###***####%@@@@@%%%%%%###*+=====------===========::--=====-:::-</text>
+    <clipPath id="c49"><rect class="l49" x="0" y="231.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="235.4" clip-path="url(#c49)">............:::::::::::-==+=-====++++++===========+=++++========================+++++++======+====-:::::------+#*+*####*######%%@@@@%%%%%%%#####*+===-------==========:::-=====-:::-</text>
+    <clipPath id="c50"><rect class="l50" x="0" y="236.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="240.0" clip-path="url(#c50)">........:...............:-+=-====++++++============+++++=========================++++++============-:::::---=*#*+*###*####*#%%%@@@@@%%%%%%#######%*==-------==========:::-=====-:::-</text>
+    <clipPath id="c51"><rect class="l51" x="0" y="240.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="244.6" clip-path="url(#c51)">::::::::::::::::::::::::.:==-====+++++===============+++=========================++++++=======++===-::::::-+##***###*###**#%%%%@@@@@%%%%%%######%%%#=------==========:::--====-:::-</text>
+    <clipPath id="c52"><rect class="l52" x="0" y="245.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="249.2" clip-path="url(#c52)">:::::::::::::::::::::::::.-=-=====++++==============++++==========================+++++======+*++==-:::::=*##**####**#***#%##%%%%%%%##%%%#######%%%%#=------==========:::--====-:::-</text>
+    <clipPath id="c53"><rect class="l53" x="0" y="249.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="253.8" clip-path="url(#c53)">:::::::::::::::::::::::::::=-=====++++==============++++===========================++++=====+*++++=-:.:-*#########*+*#**###*#**#%###*####**#####%%%%%%*=----==========:::--====-:::-</text>
+    <clipPath id="c54"><rect class="l54" x="0" y="254.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="258.4" clip-path="url(#c54)">::::::::::::::::::::::::::.:-====++++++============================================++++====+**+**+=--:=++*%%####**=+#*+##******#%##%#**###**#**%%%%####*----==========:::--====-:::-</text>
+    <clipPath id="c55"><rect class="l55" x="0" y="259.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="263.0" clip-path="url(#c55)">:::::::::::::::::::::::::::.:====++++++===============++==========================+=+++===+***+++======---=+*##**==**+*#*+**#**######*#####**#*####%%%##+---==========:::--====::::-</text>
+    <clipPath id="c56"><rect class="l56" x="0" y="263.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="267.6" clip-path="url(#c56)">::::::::::-==++=-::::::::::::=====++++================++===========================++++==++***+--=======-:-:--===-++++**++***++*#####**##*#*#***##*#%%%#**=-==========:::--====::::-</text>
+    <clipPath id="c57"><rect class="l57" x="0" y="268.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="272.2" clip-path="url(#c57)">::::::::::*#####+:::::::::::.:=====+++================+++===========================+++=+*++++=-=======--------==++++**++++=++**#####********#***#%#*#%%#**---========:::--====::::-</text>
+    <clipPath id="c58"><rect class="l58" x="0" y="272.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="276.8" clip-path="url(#c58)">::::::::::+*****+::::::::::::.-====+++=================+============================++++*+=++=--===-===-===----=+++++**+++=+**+***###******++*****##**#%#**+------------------------</text>
+    <clipPath id="c59"><rect class="l59" x="0" y="277.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="281.4" clip-path="url(#c59)">::::::::::-=---=-::::::::::::::=====++===============================================++**==++=-====-===-===----+++++**+++==**+++**###*****++=+++****++**#***=:::::::::::::::::------</text>
+    <clipPath id="c60"><rect class="l60" x="0" y="282.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="286.0" clip-path="url(#c60)">:::::::::::----+--::::::::::::.-====++================================================+**==*+--====-===-===-=-=++++*++++=++*++=+*####******++++++**++***+*++*=::::::::::::::::::::::</text>
+    <clipPath id="c61"><rect class="l61" x="0" y="286.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="290.6" clip-path="url(#c61)">:::::::::==-+==+=-=-::::::::::::====+=================================================+*+==+=-======+++====-=-=++++**++++*+++==+##*##******+++++++#++*#+=++++*-:::::::::::::::::::::</text>
+    <clipPath id="c62"><rect class="l62" x="0" y="291.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="295.2" clip-path="url(#c62)">:::::::----=+==*==---::::::::::.:================+++*++++=============================+*+==+=-=+====++++===-=-=++++*++++++====++***##*+****+++++==**+++-=+++=++:::::::::::::::::::::</text>
+    <clipPath id="c63"><rect class="l63" x="0" y="295.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="299.8" clip-path="url(#c63)">.::::::--------==----:::::::::::.-=============-=#=====---============================+=======++====+++====---++*++*+++=*====+++**###*+***++==++==+*++=-==++=+*-::::::::::::::::::::</text>
+    <clipPath id="c64"><rect class="l64" x="0" y="300.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="304.4" clip-path="url(#c64)">.::::::-:::----------:::::::::::::=============:==::::::.:-========================+++=-====-==+====+++====--=+++=+++++++===+++=*####*++++++=====+++**==+====+++::::::::::::::::::::</text>
+    <clipPath id="c65"><rect class="l65" x="0" y="305.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="309.0" clip-path="url(#c65)">..:::::---::---------::::::::::::.:============:--:.:::..:-=======================++++++=+=====+====++=====-=++++=++=+++====++++*#****++++++=====+++++==+=+==++*-:::::::::::::::::::</text>
+    <clipPath id="c66"><rect class="l66" x="0" y="309.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="313.6" clip-path="url(#c66)">...::::-::::--:---::-::::::::::::..-==========-:-:.......:======================-::::::-:::-===+==--++=====-+++++=++=++=====+++++*****+**+++=====+++======+==+=*+:::::::::::::::::::</text>
+    <clipPath id="c67"><rect class="l67" x="0" y="314.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="318.2" clip-path="url(#c67)">...::::::.:::::--:::-:::::::::::...:==========-::........:======================-:::::::::::-=++==--======--++++=========+++++==+*****+*++++=====++====+=======++-::::::::::::::::::</text>
+    <clipPath id="c68"><rect class="l68" x="0" y="318.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="322.8" clip-path="url(#c68)">....::::::::::::::::::::::::........-=========-:...::....:======================:.::.:::.:---++====-========++++====+=======+++=+*****++++++=======--=++========+=::::::::::::::::::</text>
+    <clipPath id="c69"><rect class="l69" x="0" y="323.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="327.4" clip-path="url(#c69)">.....:::--:::::::::::::::::.........:=========-:...::::::-======================:.:..:::.:=-=++=-----=====+++=+===++++===+++++==+*****++++++=======-=+==========+=::::::::::::::::::</text>
+    <clipPath id="c70"><rect class="l70" x="0" y="328.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="332.0" clip-path="url(#c70)">......::::::::::::::::...............:=++++***-:::.::::::-======================:.:..::..:=-=++=-----======+====--==++===++======*****++*+++======+===============::::::::::::::::::</text>
+    <clipPath id="c71"><rect class="l71" x="0" y="332.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="336.6" clip-path="url(#c71)">.......:..::::::::::::..........:.....=+++++=-:-*+----:::-++=+++++==============:.::.::::--:=++=-----========-=---==+++=++======+*##**++++++=====++====+======---=-:::::::::::::::::</text>
+    <clipPath id="c72"><rect class="l72" x="0" y="337.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="341.2" clip-path="url(#c72)">.......::.::::::::::::................:=+=-::::-*+-----::-++++++++++============:.:::::::--:=++=-----===-====-==---==+++++======+*****++++++=====++=====-=====::-=-:::::::::::::::::</text>
+    <clipPath id="c73"><rect class="l73" x="0" y="341.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="345.8" clip-path="url(#c73)">.::....:::.:::::::::::.................:-::::::-*+-==--:.:===+++**++++++========:.:::::----:=====-----=--====-==---=-=++++===++==+****++***++====++=====-====-::-==:::::::::::::::::</text>
+    <clipPath id="c74"><rect class="l74" x="0" y="346.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="350.4" clip-path="url(#c74)">:::-::::::.:::::::::::.................:::::::::--:----:.:-:-=-==++====++=======:--------:::=====--------====-==------+*++===++==+*****++**+++===++=====--===-:::-=-::::::::::::::::</text>
+    <clipPath id="c75"><rect class="l75" x="0" y="351.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="355.0" clip-path="url(#c75)">.:---::::.::::::::::::..................::::::.......::::::----=++*+++==+====-=-:-=--==:.:.:=====--------====-------=-++=========+*****+++++=====++======--=--:::-=-::::::::::::::::</text>
+    <clipPath id="c76"><rect class="l76" x="0" y="355.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="359.6" clip-path="url(#c76)">:.:::.::::-:::::::::::...................::::..........:::::::-:----=-=======-=-:-=--==:.:.:-++=====-----=====------=======------=+****++++++===+++======-----:::-=-:::::::::::::::.</text>
+    <clipPath id="c77"><rect class="l77" x="0" y="360.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="364.2" clip-path="url(#c77)">::.....::::-::::::::::..................:-:.::::::=+=-:::::::::::::::---=====-=-:-=--=-....:-=++==-------=====-----:-==------:----==+++++**++===+++======-----:---==::::::::::::::..</text>
+    <clipPath id="c78"><rect class="l78" x="0" y="364.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="368.8" clip-path="url(#c78)">......::::.:::::::::::..............::-=====++====*%*++====---------------===---:==---:....:-=++==----:-======-----:-==----==--=---======+**+====+=--=====---::---==:::::::::::.....</text>
+    <clipPath id="c79"><rect class="l79" x="0" y="369.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="373.4" clip-path="url(#c79)">.......::-::::::::::::.............::::------=======++===++++++++++++=-:.::::::::-----:..:.::=+==-------=======----::-===--==++===+***#*++=====++=---=====----:----=:::::::::::.:...</text>
+    <clipPath id="c80"><rect class="l80" x="0" y="374.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="378.0" clip-path="url(#c80)">........:-:::::::::::...............:::::.....:::::::::::::--=----===--:........::::---::-:::====-----=+=======----::-===--==++===+***#*++=====++=---=====----:--==--:::::::::......</text>
+    <clipPath id="c81"><rect class="l81" x="0" y="378.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="382.6" clip-path="url(#c81)">........---::--::----:::......::::..::::::::::::::::::::::::::-:----:..::::::..::---:::::::--====----=+++======----::---=-----==--==============------===-------===-==-::::----:::::</text>
+    <clipPath id="c82"><rect class="l82" x="0" y="383.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="387.2" clip-path="url(#c82)">....:...:-:-=======---:..............:::::---:::::::::::::::-:-------::----------------::::------------===-=====----:--=========+++++==-:-=====-------==--------==--==-:.:---=-:::::</text>
+    <clipPath id="c83"><rect class="l83" x="0" y="387.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="391.8" clip-path="url(#c83)">:::::::::---=+===---=----------------:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::---------------------====+++=++=--:---------:--------=====---=-::::--=-:::::</text>
+    <clipPath id="c84"><rect class="l84" x="0" y="392.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="396.4" clip-path="url(#c84)">:::::::::---:--::::::::::::::::::::::::..::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::++=-==+++++==--::----:::-===---==+==----=-::::--=-:::::</text>
+    <clipPath id="c85"><rect class="l85" x="0" y="397.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="401.0" clip-path="url(#c85)">:::::::::::::::::::::::::::::::::::::::.....:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::+**+--=+*++==--:::::::---====-==+++=----=-::::----:::::</text>
+    <clipPath id="c86"><rect class="l86" x="0" y="401.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="405.6" clip-path="url(#c86)">:::::::::::::::::::::::::::::::::::::..........:::::::::::::::::::::::::::::::::::::::::-----------::::::::::::::::::::::::::-+++++==+++=---:::::::::--====-==+=-------:::------:---</text>
+    <clipPath id="c87"><rect class="l87" x="0" y="406.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="410.2" clip-path="url(#c87)">::::::::::::::::::::::::::::::........:::::.::::--------------------------:-+========+=-::::::::::::::::::::::::::::::::-----:-==+++++++=----:::::::::-===+====--==----::-----------</text>
+    <clipPath id="c88"><rect class="l88" x="0" y="410.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="414.8" clip-path="url(#c88)">::::::::::::::::::::::::::::::..............:::---==-----------------------=*++=+++++*+------------------------------------:::::-==+++===---::::--:-:::-===+==-::------::::::-------</text>
+    <clipPath id="c89"><rect class="l89" x="0" y="415.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="419.4" clip-path="url(#c89)">::::::::::::::::::::::::-----:................:-------===========----------=+++++++++*+-----------------------=-------------::::--=====----:::::::::::::----------::::::::::::::::::</text>
+    <clipPath id="c90"><rect class="l90" x="0" y="420.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="424.0" clip-path="url(#c90)">:::::------------------------:................:-=-------==-----=-==-===--==-----------=======================-----::::::::::::::::::---------=======++++**######%%*-::::::::::::::::</text>
+    <clipPath id="c91"><rect class="l91" x="0" y="424.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="428.6" clip-path="url(#c91)">:::::------------------------:................:-=--------------------------------------=----------=======-=*#+----::::::::::::::::::-+##%%%%%##***##**##**###*****+-::::::::::::::::</text>
+    <clipPath id="c92"><rect class="l92" x="0" y="429.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="433.2" clip-path="url(#c92)">:::::------------------------:...............::-=--------------------------------=--=--=-----=--=--==-=--::-*#*=:::::-=======--::::::-+****+++======------======++++=-::::::::::::::</text>
+    <clipPath id="c93"><rect class="l93" x="0" y="433.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="437.8" clip-path="url(#c93)">:::::------------------------:...............::-=----------------------------------------------------=--:::::=##+:::::::::::::::::::::::-=++++++++******####*#%%%%%#+-::::::::::::::</text>
+    <clipPath id="c94"><rect class="l94" x="0" y="438.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="442.4" clip-path="url(#c94)">:::::------------------------:...............::----------------------------=----------====-==-==-=====-:::::::-*#+-:::::::::-------:::::=*###**##********+========--::::::::::::::::</text>
+    <clipPath id="c95"><rect class="l95" x="0" y="443.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="447.0" clip-path="url(#c95)">::::::-----------------------:...........::::::-------------=-=====================================+=-::::::::.-+#*=:::::--=-------::::::-==---------------====+++=-::::::::::::::::</text>
+    <clipPath id="c96"><rect class="l96" x="0" y="447.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="451.6" clip-path="url(#c96)">::::::-----------------------:........::::------===================================================-::::::::::..:=##=::::::::......:::::::::=+****######%%%##%%%%#+-::::::::::::::::</text>
+    <clipPath id="c97"><rect class="l97" x="0" y="452.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="456.2" clip-path="url(#c97)">::.::::----------------------:.......:::::::::::-------===========================================-:::::::::::....-*#+:.:::::-----::.::....:=*########***+++====--::::::::::::::::::</text>
+    <clipPath id="c98"><rect class="l98" x="0" y="456.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="460.8" clip-path="url(#c98)">:::::::----------------------:.......::::::::::::::::::::------==================================-:::::::::::......:+#*-:::::-----::::::.....:--::::::::::::::--::::::::::::::::::::</text>
+    <clipPath id="c99"><rect class="l99" x="0" y="461.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="465.4" clip-path="url(#c99)">::::::--:--:--:--------------:..........::::::::::::::::::::::::::------=======================-::::::::............:=#*=:.....:::::::::::------====++++*******+=-::::::::::::::::::</text>
+    <clipPath id="c100"><rect class="l100" x="0" y="466.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="470.0" clip-path="url(#c100)">:::.:::---:--:--:------------:.............:::::::::::::::::::::::::::::::::-------===========-:::::::................-*#+=====+++++********************++++++=-::::::::::::::::::::</text>
+    <clipPath id="c101"><rect class="l101" x="0" y="470.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="474.6" clip-path="url(#c101)">::...::----------------------:.............::::::::::::::::::::::::::::::::::::::::::-------===----::::::..........::::-+***********+++++++++++++++++++++=====--::::::::::::::::::::</text>
+    <clipPath id="c102"><rect class="l102" x="0" y="475.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="479.2" clip-path="url(#c102)">:....::-:--:-----------------:.............:-:::::::::::::::::::::::::::::::::::::::::::::::::---------------------====++++==================+++++++++++++++==-:::::::::::::::::::::</text>
+    <clipPath id="c103"><rect class="l103" x="0" y="479.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="483.8" clip-path="url(#c103)">.....:::--:--:--:------------:.............::::------:::::::::::::::::::::::::::::::::::::::::::::::::::--------=====++++====================+++++++++++++++=--:::::::::::::::::::::</text>
+    <clipPath id="c104"><rect class="l104" x="0" y="484.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="488.4" clip-path="url(#c104)">.....::::--:--:--:-----------:...............::---::::::::---:::::::::::::::::::::::::::::::::::::::::::::::::::::---=======================+++++++++++++++==-::::::::::::::::::::::</text>
+    <clipPath id="c105"><rect class="l105" x="0" y="489.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="493.0" clip-path="url(#c105)">......:::--:-----------------:...............::---:........::::::::-:::::::::::::::::::::::::::::::::::::::::::::::::::::::-------=========++++++++++==++===-:::::::::::::::::::::::</text>
+    <clipPath id="c106"><rect class="l106" x="0" y="493.6" width="452" height="6.6"/></clipPath>
+    <text x="10" y="497.6" clip-path="url(#c106)">......::--:--:--:------------:...............::---::............::.::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::-----=================--:::::::::::::::::::::::</text>
+    <clipPath id="c107"><rect class="l107" x="0" y="498.2" width="452" height="6.6"/></clipPath>
+    <text x="10" y="502.2" clip-path="url(#c107)">......:::--:--:--:-----------:...............::---::........................:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::------========-::::::::::::::::::::::::</text>
+    <clipPath id="c108"><rect class="l108" x="0" y="502.8" width="452" height="6.6"/></clipPath>
+    <text x="10" y="506.8" clip-path="url(#c108)">.......::::-::--:------------:...............::----::.........::..:..::..:..::..:..::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::---::::::::::::::::::::::::::</text>
+    <clipPath id="c109"><rect class="l109" x="0" y="507.4" width="452" height="6.6"/></clipPath>
+    <text x="10" y="511.4" clip-path="url(#c109)">.......::--------------------:..............:::----:::..........:..::..:...:..:..::..:..::.::.::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::</text>
+    <clipPath id="c110"><rect class="l110" x="0" y="512.0" width="452" height="6.6"/></clipPath>
+    <text x="10" y="516.0" clip-path="url(#c110)">.......::--:--:--::----------:...............::----:::::.............................................::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::.:::.::::</text>
+  </g>
+</svg>

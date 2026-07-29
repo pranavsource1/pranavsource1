@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 444 147" width="444" height="147">
+  <rect width="100%" height="100%" fill="#000" />
+  
+    <style>
+      @keyframes wipeIn {
+        from { clip-path: inset(0 100% 0 0); }
+        to { clip-path: inset(0 0% 0 0); }
+      }
+      @keyframes rockY {
+        0% { transform: skewY(0deg); }
+        25% { transform: skewY(1.5deg); }
+        50% { transform: skewY(0deg); }
+        75% { transform: skewY(-1.5deg); }
+        100% { transform: skewY(0deg); }
+      }
+      .wordmark {
+        animation: wipeIn 0.9999999999999999s ease 0.4s forwards,
+                   rockY 4s ease-in-out 1.4s infinite;
+        clip-path: inset(0 100% 0 0);
+        transform-origin: center center;
+      }
+    </style>
+  <g class="wordmark" font-family="'Courier New', monospace" font-size="6.0px" letter-spacing="0px">
+    <g class="shadow" fill="#555555">
+    <text x="33" y="33.0">PPPPPPPPPPPP      RRRRRRRRRRRR            AA          NN          NN          AA          VV            VV</text>
+    <text x="33" y="40.0">PP         PP     RR         RR          AAAA         NNN         NN         AAAA         VV            VV</text>
+    <text x="33" y="47.0">PP         PP     RR         RR         AA  AA        NNNN        NN        AA  AA         VV          VV</text>
+    <text x="33" y="54.0">PP         PP     RR         RR        AA    AA       NN NN       NN       AA    AA        VV          VV</text>
+    <text x="33" y="61.0">PPPPPPPPPPPP      RRRRRRRRRRRR        AA      AA      NN  NN      NN      AA      AA        VV        VV</text>
+    <text x="33" y="68.0">PP                RR    RR           AAAAAAAAAAAA     NN   NN     NN     AAAAAAAAAAAA       VV        VV</text>
+    <text x="33" y="75.0">PP                RR     RR          AA          AA   NN    NN    NN     AA          AA      VV      VV</text>
+    <text x="33" y="82.0">PP                RR      RR        AA            AA   NN     NN   NN    AA            AA      VV      VV</text>
+    <text x="33" y="89.0">PP                RR       RR       AA            AA   NN      NN  NN    AA            AA       VV    VV</text>
+    <text x="33" y="96.0">PP                RR        RR      AA            AA   NN       NN NN    AA            AA        VV  VV</text>
+    <text x="33" y="103.0">PP                RR         RR     AA            AA   NN        NNNN    AA            AA         VVVV</text>
+    <text x="33" y="110.0"></text>
+    </g>
+    <g class="front" fill="#d0d0d0">
+    <text x="30" y="30.0">PPPPPPPPPPPP      RRRRRRRRRRRR            AA          NN          NN          AA          VV            VV</text>
+    <text x="30" y="37.0">PP         PP     RR         RR          AAAA         NNN         NN         AAAA         VV            VV</text>
+    <text x="30" y="44.0">PP         PP     RR         RR         AA  AA        NNNN        NN        AA  AA         VV          VV</text>
+    <text x="30" y="51.0">PP         PP     RR         RR        AA    AA       NN NN       NN       AA    AA        VV          VV</text>
+    <text x="30" y="58.0">PPPPPPPPPPPP      RRRRRRRRRRRR        AA      AA      NN  NN      NN      AA      AA        VV        VV</text>
+    <text x="30" y="65.0">PP                RR    RR           AAAAAAAAAAAA     NN   NN     NN     AAAAAAAAAAAA       VV        VV</text>
+    <text x="30" y="72.0">PP                RR     RR          AA          AA   NN    NN    NN     AA          AA      VV      VV</text>
+    <text x="30" y="79.0">PP                RR      RR        AA            AA   NN     NN   NN    AA            AA      VV      VV</text>
+    <text x="30" y="86.0">PP                RR       RR       AA            AA   NN      NN  NN    AA            AA       VV    VV</text>
+    <text x="30" y="93.0">PP                RR        RR      AA            AA   NN       NN NN    AA            AA        VV  VV</text>
+    <text x="30" y="100.0">PP                RR         RR     AA            AA   NN        NNNN    AA            AA         VVVV</text>
+    <text x="30" y="107.0"></text>
+    </g>
+  </g>
+</svg>
