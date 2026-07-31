@@ -1,40 +1,28 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     portrait: python scripts/make_ascii_svg.py <photo>
-     wordmark: python scripts/make_wordmark_svg.py PRANAV -->
-
-<h3><code>pranav@github ~ $ whoami</code></h3>
-
 <img src="./wordmark.svg" width="880" alt="PRANAV — 3D ASCII wordmark" />
 
-<img src="./typing.svg" width="880" alt="Typing Animation" />
+<img src="./typing.svg" width="600" alt="Building AI Integrated Products" />
 
 <br>
 
-<img src="./pranav-ascii.svg" width="400" alt="Pranav — ASCII portrait" />
+<img src="./pranav-ascii.svg" width="420" alt="Pranav — ASCII portrait" />
 
 <br>
 <br>
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     python scripts/make_contrib_heatmap_svg.py pranavsource1 -->
-
-<h3><code>pranav@github ~ $ ./contributions.sh</code></h3>
+<h3>Contributions</h3>
 
 <img src="./contrib-heatmap.svg" width="880" alt="GitHub contribution heatmap" />
 
 <br>
 <br>
 
-<!-- social links, rendered as a terminal prompt -->
-<h3><code>pranav@github ~ $ ./links.sh</code></h3>
+<h3>Connect With Me</h3>
 <p>
   <a href="https://github.com/pranavsource1"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/pranavyadavv"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  
-  <a href="pranavyadav251@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:pranavyadav251@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>

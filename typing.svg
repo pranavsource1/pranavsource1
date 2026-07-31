@@ -1,55 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 50" width="880" height="50">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 50" width="600" height="50">
   <style>
-    @keyframes typing {
-      0% { width: 0; }
-      15%, 30% { width: 330px; }
-      35%, 50% { width: 0; }
-      65%, 80% { width: 350px; }
-      85%, 100% { width: 0; }
+    @keyframes fade1 {
+      0%, 30% { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    @keyframes fade2 {
+      0%, 33% { opacity: 0; }
+      36%, 63% { opacity: 1; }
+      66%, 100% { opacity: 0; }
+    }
+    @keyframes fade3 {
+      0%, 66% { opacity: 0; }
+      69%, 96% { opacity: 1; }
+      100% { opacity: 0; }
     }
     @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-    .text-container {
-      font-family: 'Courier New', monospace; 
-      font-size: 20px; 
-      fill: #58a6ff;
-    }
-    .t1 {
-      animation: text1 10s infinite;
-    }
-    .t2 {
-      animation: text2 10s infinite;
-    }
-    @keyframes text1 {
-      0%, 49.9% { opacity: 1; }
+      0%, 49% { opacity: 1; }
       50%, 100% { opacity: 0; }
     }
-    @keyframes text2 {
-      0%, 49.9% { opacity: 0; }
-      50%, 100% { opacity: 1; }
-    }
-    .clip { 
-      animation: typing 5s steps(35) infinite; 
-      overflow: hidden; 
-      white-space: nowrap;
-      display: inline-block;
-    }
+    .t1 { animation: fade1 9s infinite; }
+    .t2 { animation: fade2 9s infinite; }
+    .t3 { animation: fade3 9s infinite; }
+    .cursor { animation: blink 1s step-end infinite; }
   </style>
-  <rect width="100%" height="100%" fill="transparent"/>
-  <g class="text-container">
-    <text x="260" y="30" fill="#7d8590">~/pranav $&gt; </text>
-    <g transform="translate(390, 0)">
-      <foreignObject width="400" height="50">
-        <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Courier New', monospace; font-size:20px; color:#58a6ff; display:flex; align-items:center; height:50px;">
-          <div class="clip">
-            <span class="t1" style="position:absolute; left:0;">Building AI integrated products</span>
-            <span class="t2" style="position:absolute; left:0;">Full Stack Developer &amp; Creator</span>
-          </div>
-          <div style="width:2px; height:24px; background-color:#58a6ff; margin-left:4px; animation:blink 0.8s step-end infinite;"></div>
-        </div>
-      </foreignObject>
-    </g>
-  </g>
+  <text x="300" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" class="t1" fill="#58a6ff">Building AI Integrated Products</text>
+  <text x="300" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" class="t2" fill="#58a6ff">Full Stack Developer &amp; Creator</text>
+  <text x="300" y="32" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" class="t3" fill="#58a6ff">Turning Ideas Into Code</text>
+  <rect x="490" y="16" width="2" height="20" fill="#58a6ff" class="cursor"/>
 </svg>
