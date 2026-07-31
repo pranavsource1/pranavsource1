@@ -32,9 +32,9 @@
 <h3><code>pranav@github ~ $ ./links.sh</code></h3>
 <p>
   <a href="https://github.com/pranavsource1"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://x.com/your-twitter"><img src="https://img.shields.io/badge/X%20(Twitter)-%23000.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pranavyadavv"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  
+  <a href="pranavyadav251@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
